@@ -65,5 +65,5 @@
   - IDE: Android Studio Meerkat  
   - 빌드 툴: Gradle 7.4  
   - 버전 관리: Git/GitHub
-- 서버 대여
+- ### 서버 대여
   - 플랫폼: Vast.ai
