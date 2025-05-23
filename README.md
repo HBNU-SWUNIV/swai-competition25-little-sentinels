@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ea1f3c1b-125b-4dfb-8524-2d9f347b6b64)![image](https://github.com/user-attachments/assets/59c95211-b832-4314-821a-d3df207a0dea)# OSSW-Competition-TEMPLATE
 소중한 오픈 소스 활용SW 경진대회 
 # 국립한밭대학교 Little Sentinels팀
 
