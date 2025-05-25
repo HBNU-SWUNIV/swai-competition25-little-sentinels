@@ -1,5 +1,5 @@
 # Source Code
- - Grow Vision App 소스코드 파일입니다.
+ - Grow Vision App 소스코드 파일입니다
    
 # 주의사항
 - ### 다른 Open Source SW를 사용하는 경우 저작권을 명시해야 함
